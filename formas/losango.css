@@ -1,0 +1,9 @@
+#diamond{
+    width:100px;
+    height:100px;
+    background:rgb(179, 21, 139);
+    margin-top:20px;
+    margin-left:20px;
+     /* Rotação */  
+     transform: rotate(-45deg);  
+  }

@@ -1,0 +1,94 @@
+.gridcircle {
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+.one {
+
+    border: 1px solid rgb(240, 12, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    background-color: green;
+    color: #AAA;
+    
+}
+
+.two {
+    background-color: blue;
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.three {
+    background: rgb(7, 85, 24);
+    border: 1px solid rgb(238, 5, 5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.four {
+    background: yellow;
+    border: 1px solid rgb(15, 32, 192);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.five {
+    background: rgb(230, 6, 6);
+    border: 1px solid rgb(255, 253, 253);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.six {
+    background: rgb(182, 14, 126);
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.seven {
+    background: rgb(80, 62, 4);
+    border: 1px solid rgb(236, 5, 5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.eight {
+    background: rgb(17, 224, 252);
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
+.nine {
+    background: #444;
+    border: 1px solid yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #AAA;
+}
+
